@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hrbud.zzhmvvm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hrbud.zzhmvvm.MyBundle
 
 class MyApplicationService {
 
